@@ -1,6 +1,0 @@
-NodeJS -> JS runtime built on Chrome's V8 JS engine
-       ->Chrome's V8 engine only had access to the DOM but with NodeJS we can do alot more
-       -> Its not a programming language
-       -> But JS is a programming language which brings dynamic functionality to the website
-       -> Chorome's v8 engine(built with c++) + Ryan Dahls C++ code == NodeJS
-      
